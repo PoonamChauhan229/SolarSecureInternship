@@ -1,0 +1,19 @@
+Task 3 : Client server model:
+
+In the Client-server-model there are certain things which happens on the Server side and certain things that take place on the client side 
+
+For the certain things that happen to the server side, we write server side code 
+and for the certain things that happen to the client side, we write client side code
+
+Server-side scripting is a technique used in web development which involves employing scripts on a web server which produce a response customized for each users(clients) request to the website.
+
+Eg:facebook
+if we go facebook , different pages will display different contents
+this means server of facebook has customized the page based on the user which is accessing it.
+
+Client-Side Code: program that runs on the client machine(browser) and deals with the user interface/display and any other processing that can happen on client machine like reading/writing cookies
+
+In case of facebook, sever is creating customized web pages for different users and sending it to the client
+whereas client takes the code and builds web page out of it.
+
+The code which goes to the client and on the basis of which client makes the display of the code is called client side code
