@@ -1,0 +1,12 @@
+Task1 : What is Web development ?
+
+As per Wikipedia,web development is the work  involved in developing a website for the internet(World Wide Web) or an intranet(a private network)
+
+Internet is basically what you you enter in the browser using www 
+
+Intranet is the private network which is not accessible on www
+and its access is only limited to a certain individual
+Eg:Lets say a big company might have its private network for its employees
+
+When you create a website on the internet or on the intranet which can be visited by the people using a tool like browser.
+The entire process building such a website is called web development

@@ -1,0 +1,12 @@
+Task 2 :Understanding Servers
+
+A server is a computer program or a device that provides functionality for other programs or devices, called "clients".
+This architecture is called the client-server-model
+
+Basically server is a destination where your website is kept for the people to access 
+Even your laptop can be a server if your website is stored there but oftenly bind the from server company
+because for a website to be accessible  at all time the server should be on and connected to the internet at all the time 
+
+Client is nothing but you or more specifically your computer or your browser which sends the request on your behalf to the server 
+As a server which has been read in the definition before, is a computer program or a hardware device that response to such request 
+This entire interaction and the relation between the client and server is called the client-server-model
