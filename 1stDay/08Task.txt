@@ -1,0 +1,15 @@
+Task 7 : Commenting in HTML.
+
+If revist the code after few months and understand why the below code was written here
+We wont be able to remember , we will just guessed why we used it
+
+And if ourr code is going to be complex with n number lines of code
+so it becomes difficult to track so wht does a piece of code needs
+
+or if a third person is going to visit the code , he wont understand 
+so in all these case wew use comments
+
+<!-- --> comments- to demonstarte what that piece of code is meant for
+that whatever we have commented wont be visible on the browser.
+
+

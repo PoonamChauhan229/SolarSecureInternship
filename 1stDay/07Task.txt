@@ -1,0 +1,12 @@
+Task 6 : Some HTML Tags
+
+Ctrl+N=>new file
+Ctrl+S=>save
+Tags:
+h tags- use to write headings on page(h1,h2,h3,h4,h5,h6)
+div-Used to create containers which seperates content on page
+p-for writing text or paragraph
+a-used for creating links
+br-adds a line break
+hr-adds a line seperator
+span-used to group a part of text
