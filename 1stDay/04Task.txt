@@ -1,0 +1,31 @@
+Task 4 : What is Domain?
+A Domain is the name of the website
+Registering a domain name is mandatory to start the website and it usually costs 10$/year
+
+A domain name can be name of the business 
+or
+if its personal website then you can use your name as domain name
+
+You have option to purchase the domain name for 1/2year or also for 10 year depending upon how long you want the website
+
+You need to renew the domain after the date is expired.
+
+How to keep our domain name:
+1.Keep it short- maximum two or three word
+2.avoid numbers or hyphens-it doesnt add credibility to the business and people think its not trusted.
+3.Make it easy to Type-Long keyword/confusing then we will loose the business
+4.Make it brandable
+5.Use correct Domain name Extension-Preferred is .com extension
+for india, choose .in or .co.in extension
+for other countries ,then choose .com extension
+6.Check availability-we should always check the availability of the desired domain name
+How to check the domain availability?
+Tools to search the domain availability.
+1.leandomainsearch.com
+2.bustaname.com
+
+
+
+
+
+
