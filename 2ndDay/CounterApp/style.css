@@ -1,0 +1,20 @@
+/* web gradient 
+https://webgradients.com/
+*/
+
+body{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+.col-md-6{
+    border: 7px solid black;
+    padding: 20px;
+    margin-top:150px !important;
+}
+button{
+    margin: 20px !important;
+    border: 2px solid black !important;
+}
+h1{
+    font-weight: bolder;
+    margin-top: 20px !important;
+}
