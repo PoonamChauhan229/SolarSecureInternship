@@ -1,0 +1,11 @@
+https://www.javascripttutorial.net/javascript-dom/javascript-form-validation/
+
+The following table illustrates the meaning of each part of the regular expression used to validate the password:
+
+Password RegEx	Meaning
+^	The password starts
+(?=.*[a-z])	The password must contain at least one lowercase character
+(?=.*[A-Z])	The password must contain at least one uppercase character
+(?=.*[0-9])	The password must contain at least one number
+(?=.*[!@#$%^&*])	The password must contain at least one special character.
+(?=.{8,})	The password must be eight characters or longer
