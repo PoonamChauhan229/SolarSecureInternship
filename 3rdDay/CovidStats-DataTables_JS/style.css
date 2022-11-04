@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to right, #305779 0%, #1cbbc4 100%);
+    /* height: fit-content; */
+}
+th,tr,td{
+    color: white;
+}
