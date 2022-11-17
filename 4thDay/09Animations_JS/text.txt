@@ -1,0 +1,15 @@
+AOS:
+https://michalsnik.github.io/aos/
+
+https://github.com/michalsnik/aos
+
+Basic
+Add styles in <head>:
+
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+Add script right before closing </body> tag, and initialize AOS:
+
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>

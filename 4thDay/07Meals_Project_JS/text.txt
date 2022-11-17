@@ -1,0 +1,8 @@
+API:
+https://www.themealdb.com/
+
+
+https://www.themealdb.com/api/json/v1/1/random.php
+
+Filter by Area
+www.themealdb.com/api/json/v1/1/filter.php?a=Canadian
