@@ -1,0 +1,39 @@
+NodeJs is an runtime environment which is used to run JS on the serverside.
+Node.Js is an open-source, cross-platform JavaScript runtime environment.
+Before 2009, JavaScript was used only for frontend i.e. only used for interaction purpose.
+
+Then Node came into Market and then we can use JavaScript for forntend as well as for backend.
+
+So, you can build fullstack application only with 1 language i.e. universal language which is JavaScript.
+So its the 10th project as the Node Js connection.
+
+We should know, what is the advantage of Node JS server, 
+How can we connect our NodeJs Server.
+How can we perform operations.
+
+We have done projects in JS Meals,etc where we got the data from the external APIS which we have not created.
+Someone has created that API and we have used that API directly 
+So now , with the help of NodeJs going to create our own API.
+because NodeJs is the runtime environment for running backend with the help of JS.
+
+So Downlaod external software node js, if we dont do so we cant build an server .
+
+Open the below link:
+https://nodejs.org/en/
+and download the nodejs
+
+We need to check Nodejs successfully or not
+
+open Cmd
+type node in Cmd
+=>you will get the version of the node.
+
+C:\Users\Hp>node
+Welcome to Node.js v16.17.0.
+Type ".help" for more information.
+
+
+Create NodeJS Server
+
+
+
